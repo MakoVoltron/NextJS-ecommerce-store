@@ -115,7 +115,7 @@ const ShippingAddressForm = ({ address }: { address: ShippingAddress }) => {
             <div className="flex flex-col md:flex-row gap-5">
               <FormField
                 control={form.control}
-                name="City"
+                name="city"
                 render={({
                   field,
                 }: {
