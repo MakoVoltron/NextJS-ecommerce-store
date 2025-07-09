@@ -121,7 +121,7 @@ const ShippingAddressForm = ({ address }: { address: ShippingAddress }) => {
                 }: {
                   field: ControllerRenderProps<
                     z.infer<typeof shippingAddressSchema>,
-                    "City"
+                    "city"
                   >;
                 }) => (
                   <FormItem className="w-full">
