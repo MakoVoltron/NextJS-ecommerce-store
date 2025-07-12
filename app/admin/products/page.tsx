@@ -1,3 +1,9 @@
+const AdminProductsPage = () => {
+  return <>Admin products page</>;
+};
+
+export default AdminProductsPage;
+
 // import Link from "next/link";
 // import { getAllProducts } from "@/lib/actions/product.actions";
 // import { formatCurrency, formatId } from "@/lib/utils";
