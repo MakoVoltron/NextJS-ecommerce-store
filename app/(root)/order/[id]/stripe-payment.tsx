@@ -66,8 +66,11 @@ const StripePayment = ({
     //localhost:3000/
     // order/f56b0b2c-9d39-4968-9e16-9a33480481e2
     // /stripe-payment-success?payment_intent=pi_3RrIKnAbtSPHdxHi1WEmshz5
-    // &payment_intent_client_secret=pi_3RrIKnAbtSPHdxHi1WEmshz5
-    // _secret_I25gZyyoM2mxHZ9ZkOeTWopUJ
+    // &payment_intent
+    // _
+    // client_secret=pi_3RrIKnAbtSPHdxHi1WEmshz5
+    // _
+    // secret_I25gZyyoM2mxHZ9ZkOeTWopUJ
     // &redirect_status=succeeded
 
     http: return (
